@@ -1,14 +1,14 @@
 
-package com.example.gcpsandbox;
+package com.example.grpcsandbox;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GcpSandboxApplication {
+public class GrpcSandboxApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GcpSandboxApplication.class, args);
+        SpringApplication.run(GrpcSandboxApplication.class, args);
     }
 
 }
